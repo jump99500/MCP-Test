@@ -1,0 +1,23 @@
+# Redis CLI 사용하는 법
+
+## 개요
+Redis CLI를 사용하여 Redis 서버에 접속하고 관리하는 방법에 대한 가이드입니다.
+
+## 설치
+설치는 블로그 참조.
+
+## 사용법
+
+### 기본 연결 명령어
+Redis CLI로 원격 서버에 확인하려면 아래 명령어를 사용합니다:
+
+```shell
+# redis-cli로 확인하려면 아래 명령어 사용
+redis-cli -h <호스트주소>
+```
+
+## 참고 링크
+- 원본 Notion 페이지: https://www.notion.so/87cd7d1d64024ff68c4907162de3e118
+
+---
+*이 문서는 Notion MCP를 통해 자동으로 GitHub에 동기화되었습니다.*
